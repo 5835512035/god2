@@ -12,3 +12,6 @@
 * git push -u origin feature คำสั่งเพื่อส่งการเปลี่ยนแปลงของ master ที่ต้องการไปยัง remote repository
 
  * git merge --no-ff feature ทำได้เมื่ออยู่ที่master เป็นการทำให้เชื่อต่อบนเส้นเดียวกัน
+*
+
+*https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
